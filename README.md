@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prerna190303
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning DSA using java
-- 💞️ I’m looking to collaborate on OS contribution
+- 💞️ I’m looking to collaborate on various tech projects.
 - 📫 How to reach me - prernarouth1903@gmail.com
 
 
